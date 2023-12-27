@@ -1,4 +1,4 @@
-# University Database Analysis Project
+# School Database Analysis Project
 
 - [Introduction](#introduction)
 - [Database Creation or Restoration](#database-creation-or-restoration)
@@ -17,7 +17,7 @@
 
 ## Introduction
 
-The "University Database Analysis Project" is designed to evaluate proficiency in SQL, database creation, restoration, data analysis, and result reporting. The project allows flexibility in choosing any database for analysis. The examples and tasks are based on a hypothetical university database named "UniversityDB."
+The "School Database Analysis Project" is designed to evaluate proficiency in SQL, database creation, restoration, data analysis, and result reporting. The project allows flexibility in choosing any database for analysis. The examples and tasks are based on a hypothetical School database named "SchoolDB."
 
 I am using **Microsoft SQL Server** database, but feel free to substitute it with a database of your choice.
 
@@ -31,7 +31,7 @@ I am using **Microsoft SQL Server** database, but feel free to substitute it wit
 
 ### b. Restore an existing database:
 
-- Use the **backup.sql** file in **backup** directory to restore the database using the **UniversityDB.bak** file. 
+- Use the **backup.sql** file in **backup** directory to restore the database using the **SchoolDB.bak** file. 
 
 ## Data Analysis
 
